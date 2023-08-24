@@ -26,3 +26,15 @@ Después de ejecutar el bloque de código correspondiente a la opción seleccion
 
 # Salida del programa: 
 Si el usuario selecciona "9", el script sale del bucle y finaliza.
+
+# Descargo de Responsabilidad:
+Esta herramienta, "MrScan", se proporciona con el propósito de facilitar pruebas de seguridad y análisis en redes y sistemas en un entorno controlado y autorizado. El uso de esta herramienta en sistemas o redes que no sean de su propiedad o sin el permiso explícito del propietario puede ser ilegal y está estrictamente prohibido.
+
+El equipo de desarrollo de "MrScan" no se hace responsable de ningún uso indebido o ilegal de esta herramienta. El usuario asume toda la responsabilidad por el uso de "MrScan" y debe cumplir con todas las leyes y regulaciones aplicables.
+
+Se recomienda encarecidamente que todas las pruebas de seguridad se realicen en entornos controlados y autorizados. El usuario debe obtener el permiso adecuado antes de realizar cualquier prueba de seguridad en sistemas o redes.
+
+Al utilizar "MrScan", el usuario acepta estos términos y condiciones. El equipo de desarrollo no se hace responsable de ningún daño, pérdida o consecuencia derivada del uso de esta herramienta.
+
+Recuerde que la seguridad informática es un tema serio y debe abordarse con ética y responsabilidad.`
+
